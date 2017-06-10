@@ -6,10 +6,12 @@ To setup this repo, I followed the tutorial [here](http://practicalmeteor.com/wr
 
     meteor remove autopublish insecure
 
+    meteor add meteor
+
     meteor add mongo
 
     meteor add tracker
 
     meteor add http
     
-    meteor remove blaze-html-templates
+    meteor remove blaze-html-templates reactive-var mobile-experience
